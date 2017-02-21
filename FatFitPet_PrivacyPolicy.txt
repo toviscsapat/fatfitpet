@@ -1,0 +1,18 @@
+Privacy Policy
+
+This Privacy Policy is about TövisCSAPat - FatFitPet Android application.
+
+This application do not collect any personal information about you. When you use the app, none of your personal information is transmitted anywhere.
+
+The applications send pet weigth & registration data only in the following cases:
+Upon new pet registration with the user name and arbitraty PIN is saved.
+Upon registering new pet measurement.
+
+The data is not used at this point for any purpose and will not be used in the future.
+The data will not be exposed to any third party.
+
+The data is used for assigning virtual badges based on locally stored (TinyDB) data.
+
+With any further inquiries please reach out to tovicsapat@gmail.com .
+
+(Google Play Store requires a Privacy Policy due to the fact that MIT Appinventor components could request your account. This feature is not used in this application.)
